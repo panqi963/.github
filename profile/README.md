@@ -80,7 +80,7 @@
       <td colspan="1" rowspan="2" align="center">
         <b>Simulation</b>
       </td>
-      <td><a href="https://github.com/gli-sdk/ghand-isaac-lab">GHand Isaac Lab</a><br>
+      <td><a href="https://github.com/gli-sdk/GHand-IsaacLab.git">GHand Isaac Lab</a><br>
         Simulation and reinforcement learning environments based on NVIDIA Isaac Lab. 
       </td>
     </tr>
